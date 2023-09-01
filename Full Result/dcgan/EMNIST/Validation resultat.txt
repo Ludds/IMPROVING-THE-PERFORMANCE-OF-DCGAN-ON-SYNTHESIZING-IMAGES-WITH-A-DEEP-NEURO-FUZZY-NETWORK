@@ -1,0 +1,5 @@
+Network test result: [D loss: 0.690531, acc.: 49.96%] [G loss: 0.681062]
+Network test result: [D loss: 0.691486, acc.: 49.70%] [G loss: 0.685391]
+Network test result: [D loss: 0.692254, acc.: 59.19%] [G loss: 0.690626]
+Network test result: [D loss: 0.692026, acc.: 50.00%] [G loss: 0.674634]
+Network test result: [D loss: 0.692342, acc.: 49.70%] [G loss: 0.681876]
