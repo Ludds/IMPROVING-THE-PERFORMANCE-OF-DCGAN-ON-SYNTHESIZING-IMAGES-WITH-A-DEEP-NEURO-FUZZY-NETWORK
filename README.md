@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a bachelor thesis which focus was to improve the performance of the machine learning framework GAN by replacing the discriminator with a neuro-fuzzy network. This is due to the fact that neuro-fuzzy networks perform similarly to problems that correspond to that of a discriminator in a GAN framework.
+This is a bachelor thesis whose focus was to improve the performance of the machine learning framework GAN by replacing the discriminator with a neuro-fuzzy network. This is due to the fact that neuro-fuzzy networks perform similarly to problems that correspond to that of a discriminator in a GAN framework.
 <br/>
 The full paper can be found here: [http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-57238](http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-57238)
 
@@ -75,13 +75,17 @@ The full paper can be found here: [http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:d
 
 The following project was built with the following language and libraries
 
-<a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" width="200"></a>
+<a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" width="200" height="60"></a>
 </br>
-<a href="https://keras.io/"><img src="https://keras.io/img/logo.png" width="200"></a>
+<a href="https://www.tensorflow.org/"><img src="https://www.gstatic.com/devrel-devsite/prod/vbad4fd6eb290ad214822e7a397f826be8dbcc36ca2a922ba48f41fb14286829c/tensorflow/images/lockup.svg" width="200" height="60"></a>
 </br>
-<a href="https://www.tensorflow.org/"><img src="https://www.gstatic.com/devrel-devsite/prod/vbad4fd6eb290ad214822e7a397f826be8dbcc36ca2a922ba48f41fb14286829c/tensorflow/images/lockup.svg" width="200"></a>
+<a href="https://keras.io/"><img src="https://keras.io/img/logo.png" width="200" height="60"></a>
 </br>
-<a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/logo_dark.svg" width="200"></a>
+<a href="https://numpy.org//"><img src="https://numpy.org/images/logo.svg" width="200" height="60"></a>
+</br>
+<a href="https://www.nist.gov/itl/products-and-services/emnist-dataset"><img src="https://www.nist.gov/libraries/nist-component-library/dist/img/logo/logo.svg" width="200" height="60"></a>
+</br>
+<a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/logo_dark.svg" width="200" height="60"></a>
 
 
 <!-- CONTACT -->
