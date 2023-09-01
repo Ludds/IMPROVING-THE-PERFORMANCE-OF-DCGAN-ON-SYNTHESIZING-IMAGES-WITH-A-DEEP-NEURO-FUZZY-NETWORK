@@ -55,6 +55,14 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -87,6 +95,25 @@ The following project was built with the following language and libraries
 </br>
 <a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/logo_dark.svg" width="200" height="60"></a>
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+To do: Write this part!
+
+### Prerequisites
+
+To do: Write this part!
+
+### Installation
+
+To do: Write this part!
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+To do: Write this part!
 
 <!-- CONTACT -->
 ## Contact
