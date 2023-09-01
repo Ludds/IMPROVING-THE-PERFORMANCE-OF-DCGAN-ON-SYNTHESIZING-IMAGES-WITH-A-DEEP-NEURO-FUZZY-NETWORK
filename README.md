@@ -99,7 +99,7 @@ Project Link: [https://github.com/Ludds/IMPROVING-THE-PERFORMANCE-OF-DCGAN-ON-SY
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+A special thanks to
 
 * [A. Radford, L. Metz, S. Chintala](https://arxiv.org/abs/1511.06434)
 * [O. Yazdanbakhsh, S. Dick](https://arxiv.org/abs/2001.01686)
