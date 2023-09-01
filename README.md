@@ -93,6 +93,8 @@ William Andersson Arvsell -
 
 Project Link: [https://github.com/Ludds/IMPROVING-THE-PERFORMANCE-OF-DCGAN-ON-SYNTHESIZING-IMAGES-WITH-A-DEEP-NEURO-FUZZY-NETWORK](https://github.com/Ludds/IMPROVING-THE-PERFORMANCE-OF-DCGAN-ON-SYNTHESIZING-IMAGES-WITH-A-DEEP-NEURO-FUZZY-NETWORK)
 
+Thesis Link: [http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-57238](http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-57238)
+
 
 
 
